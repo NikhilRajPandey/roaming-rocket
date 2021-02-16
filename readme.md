@@ -15,4 +15,4 @@ Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_s
 <br>
 
 🤗️ Thanks to DANIEL SHIFFMAN for
-<a href="https://natureofcode.com/"><b>Nature of Code Book</b></a> from I was able to learn some concept that helped me building this project and also to <a herf="https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww"> CODE WITH HARRY </a> for providing good quality programming from I was able to learn Javascript.
+<a href="https://natureofcode.com/"><b>Nature of Code Book</b></a> from I was able to learn some concept that helped me building this project and also to <a href="https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww"> CODE WITH HARRY </a> for providing good quality programming from I was able to learn Javascript.
