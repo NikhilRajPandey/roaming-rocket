@@ -13,7 +13,7 @@ function limit(starVelocity,max_vel){
 }
 
 function preload(){
-    rocketImg = loadImage('../images/rocket.png')
+    rocketImg = loadImage('https://nikhilrajpandey.github.io/roaming-rocket/images/rocket.png')
 }
 function setup(){ 
     createCanvas(window.innerWidth, window.innerHeight);
